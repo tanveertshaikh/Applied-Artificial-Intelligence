@@ -229,6 +229,7 @@ of these values in the answers */
 
 ; Module that contains the rules to print out the final result of the evaluation
 (defmodule result)
+
 ; Rule to check if the victim has a high/low blood pressure
 (defrule checkBldPressLvls
     (declare (salience 22))
