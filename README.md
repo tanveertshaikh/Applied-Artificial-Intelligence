@@ -1,2 +1,2 @@
 # applied-artificial-intelligence
-Course projects pertaining to CS 514 at UIC under Prof. Piotr Gmytrasiewicz
+Course Projects pertaining to CS 514 - Applied Artificial Intelligence at UIC under Prof. Piotr Gmytrasiewicz
